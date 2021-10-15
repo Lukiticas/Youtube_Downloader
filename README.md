@@ -7,6 +7,6 @@ Antes de utilizar, certifique de ter instalado as dependecias. Caso não tenha r
 pip install -r requirements.txt
 ```
 
-Caso tenha encontrado um bug ou queira deixar alguma critica construtiva, por favor faça! Ainda estou aprendendo a adoraria ouvir a sua opinião!
+Caso tenha encontrado um bug e queira deixar alguma critica construtiva, por favor faça! Ainda estou aprendendo e adoraria ouvir a sua opinião!
 
 >Futuramente irei adicionar a possibilidade de baixar playlists, conseguir videos de outras plataformas como Facebook, Reddit e Twitter. 
